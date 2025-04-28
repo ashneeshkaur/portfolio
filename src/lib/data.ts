@@ -8,18 +8,16 @@ export const personalInfo = {
 
 export const workExperience = [
   {
-    company: "Beba",
+    company: "Beba & The Chef's Company",
     location: "Berlin, Germany",
-    position: "Chef",
+    position: "Kitchen Worker",
     period: "Mar 2022 - Present",
     achievements: [
-      "Designed and implemented business logic for AWS Lambdas using the Serverless Framework, forming the backbone of the application's functionality and ensuring seamless backend operations.",
-      "Built a comprehensive admin panel for managing content, user data, and analytics.",
-      "Contributed to the development and integration of a scalable CMS for managing blog content and other platform data.",
-      "Reduced database costs by introducing materialized views, optimizing query performance and resource usage.",
-      "Drove the integration of a custom affiliate marketing system, enabling seamless tracking and reporting of referrals and user activities.",
-      "Integrated Text-to-Speech (TTS) services for enhanced user experiences, optimizing both frontend and backend systems.",
-      "Collaborated with cross-functional teams to deliver high-quality features, actively reviewing pull requests to ensure code quality, adherence to standards, and efficient implementation.",
+      "Having worked as a kitchen worker and cleaner in various establishments including Beba and The Chef’s Company ",
+      "I have developed the skills needed to maintain high standards of cleanliness and hygiene.",
+       "My responsibilities included deep cleaning of workspaces, dishwashing, waste management, and ensuring sanitary conditions were always upheld. I take pride in my ability to complete tasks thoroughly and efficiently, even in high-pressure environments.",
+"In addition to my professional experience, I bring a positive attitude and a willingness to learn and adapt to new environments. I am dependable, organized, and take initiative in my work. I am also proficient in English and have basic German skills, which help me communicate effectively with colleagues and supervisors."
+
     ],
   },
   // {
