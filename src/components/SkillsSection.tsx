@@ -1,4 +1,3 @@
-import React from "react";
 import { skills } from "@/lib/data";
 import { motion } from "framer-motion";
 import MotionWrapper from "./MotionWrapper";
@@ -77,7 +76,7 @@ export default function SkillsSection() {
             </GlassCard>
           </motion.div>
 
-          <motion.div variants={skillCategoryVariants}>
+          {/* <motion.div variants={skillCategoryVariants}>
             <GlassCard className="p-4">
               <h3 className="text-lg font-medium mb-3 text-center md:text-left flex items-center">
                 <span className="mr-2 text-xl">🎨</span> Frontend Development
@@ -127,9 +126,9 @@ export default function SkillsSection() {
                 ))}
               </div>
             </GlassCard>
-          </motion.div>
+          </motion.div> */}
 
-          <motion.div variants={skillCategoryVariants}>
+          {/* <motion.div variants={skillCategoryVariants}>
             <GlassCard className="p-4">
               <h3 className="text-lg font-medium mb-3 text-center md:text-left flex items-center">
                 <span className="mr-2 text-xl">🧰</span> Tools & Services
@@ -140,7 +139,7 @@ export default function SkillsSection() {
                 ))}
               </div>
             </GlassCard>
-          </motion.div>
+          </motion.div> */}
         </motion.div>
       </div>
     </section>
