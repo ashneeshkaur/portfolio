@@ -13,9 +13,12 @@ A sleek, responsive portfolio website built with **Astro**, **React**, and **Tai
 - **Modular Structure** – Built for easy customization and scalability
 - **SEO Friendly** – Structured content and meta tags for better visibility
 
+
+## Template credits:
+👉 [Template](https://rishilol.vercel.app/)
 ## 🚀 Demo
 
-👉 [Live Demo](https://rishilol.vercel.app/)
+👉 [Live Demo](https://ashneesh.netlify.app/)
 
 ## 🛠 Getting Started
 
